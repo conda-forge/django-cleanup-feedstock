@@ -5,7 +5,7 @@ Home: https://github.com/un1t/django-cleanup
 
 Package license: MIT
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: Deletes old files in Django Apps
 
