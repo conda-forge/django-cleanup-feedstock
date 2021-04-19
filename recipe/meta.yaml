@@ -17,10 +17,10 @@ build:
 requirements:
   host:
     - pip
-    - python
+    - python >=3.5
   run:
-    - python
-    - django
+    - python >=3.5
+    - django >=2.2
 
 test:
   imports:
