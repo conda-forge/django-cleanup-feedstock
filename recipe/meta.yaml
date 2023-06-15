@@ -1,5 +1,5 @@
 {% set name = "django-cleanup" %}
-{% set version = "7.0.0" %}
+{% set version = "8.0.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 28a969f889c661eba0d9438978693980f09482c97983bd08ee52955dae8d71e4
+  sha256: c739a05544e1e48dc848871c870dbf1595f8533d24523bc67360e43562edaf0d
 
 build:
   number: 0
